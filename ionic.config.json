@@ -1,0 +1,8 @@
+{
+  "name": "tapago",
+  "app_id": "8c9af5ff",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
